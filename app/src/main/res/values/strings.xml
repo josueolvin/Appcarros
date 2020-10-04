@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="marca">toyota</string>
+    <string name="placa">2020</string>
+    <string name="año">dos mil quince</string>
+
+    <string name="titulo"> Carros en venta</string>
+    <string name="bienvenida">gracias por visitar y visualizar nuestros carros</string>
+
+    <string name="camioneta">camioneta</string>
+    <string name="bus">bus</string>
+    <string name="camion">camion</string>
+</resources>
